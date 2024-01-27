@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro da Nóbrega!
 ### Desenvolvedor Front-End
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-da-nóbrega-vieira-b591252ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-da-nóbrega-vieira-b591252ab/)
 
 # Tecnologias que eu uso:
 <div style="display: inline-block"><br>
